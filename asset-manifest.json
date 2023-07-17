@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Speed-Calculator/static/css/main.6775865a.css",
+    "main.js": "/React-Speed-Calculator/static/js/main.56972023.js",
+    "index.html": "/React-Speed-Calculator/index.html",
+    "main.6775865a.css.map": "/React-Speed-Calculator/static/css/main.6775865a.css.map",
+    "main.56972023.js.map": "/React-Speed-Calculator/static/js/main.56972023.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6775865a.css",
+    "static/js/main.56972023.js"
+  ]
+}
